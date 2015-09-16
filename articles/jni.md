@@ -1,3 +1,2 @@
- jni:java native interface
- jni.h 头文件，声明定义了jni的语法，函数等。
- ndk:native develop kit 本地开发包
+具体详见：
+http://www.cnblogs.com/lsc183/p/4800878.html
